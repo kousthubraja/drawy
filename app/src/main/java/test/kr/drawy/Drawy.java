@@ -55,6 +55,7 @@ public class Drawy extends Activity {
             UID = userData.getString("UID", "");
             GCMId = userData.getString("GCMId", "");
         }
+
     }
 
     public void getRegId(){
